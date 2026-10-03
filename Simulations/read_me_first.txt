@@ -1,0 +1,1 @@
+Each m file serves its purpose just as its name: we run each method for each DGP in a dedicated m file.
